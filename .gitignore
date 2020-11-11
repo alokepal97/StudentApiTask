@@ -145,3 +145,7 @@ dmypy.json
 
 # profiling data
 .prof
+
+
+!api/migrations/__init__.py
+api/migrations/__init__.py
