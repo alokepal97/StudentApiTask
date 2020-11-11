@@ -2,7 +2,7 @@
 Student api from database
 
 # Installation
-Create virtual enviroment then install requirement.txt using pip command.
+Create virtual enviroment then install requirements.txt using pip command.
 
 Create migration and migrate
 
